@@ -12,11 +12,6 @@ Informing Forest Conservation Regulations in Paraguay
 
 ![Banner](https://github.com/cp-PYFOREST/Land-Use-Plan-Simulation/blob/141ed65331b9dd3bac32c19ad4b18dcbacfd8375/img/banner.png)
 
-# Land-Use-Plan-Simulation
-
-Scripts to create mock properties and simulates land use plans(LUP) based on forestry regulations.
-
-Estimate the amount of area designated as forest reserve based on current and alternate laws for undeveloped regions;
 
 ## Description
 The Paraguayan Chaco is a 32.7-million-acre ecoregion and the second-largest forest in South America. The Paraguayan Chaco lost approximately 1.65 million acres of forest between 2017 and 2020 due to deforestation driven by cattle ranching and cropping. Paraguay has a variety of laws in place to conserve forest cover in this region. To develop land in the Paraguayan Chaco, cattle ranchers must submit land use plans (LUPs) that comply with forestry laws enforced by Paraguay's National Forestry Institute (INFONA). These plans must include a forest reserve covering 25% of the designated land, a 100-meter hedgerow buffer, a 100-meter riparian forest, and paddocks of less than 100 hectares where deforestation is authorized. With tensions rising between the need for economic development and forest conservation, policymakers are considering modifying these laws in response to various stakeholders' needs. Potential modifications to these laws could lead to an increase or decrease in the required forest reserves.

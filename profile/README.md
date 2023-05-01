@@ -14,7 +14,7 @@ Informing Forest Conservation Regulations in Paraguay
 ![Banner](https://github.com/cp-PYFOREST/Land-Use-Plan-Simulation/blob/141ed65331b9dd3bac32c19ad4b18dcbacfd8375/img/banner.png)
 This GitHub organization hosts the code and documentation used in a  Capstone Project submitted in partial satisfaction of the requirements for the degree of Master of Environmental Data Science for the [Bren School of Environmental Science & Management, University of California, Santa Barbara](https://bren.ucsb.edu/projects/informing-forest-conservation-regulations-paraguay)
 
-[Land-Use-Assesment](https://github.com/cp-PYFOREST/Land-Use-Assessment)
+[Land-Use-Assesment](https://github.com/cp-PYFOREST/Land-Use-Assessment) | [Land-Use-Plan-Simulation](https://github.com/cp-PYFOREST/Land-Use-Plan-Simulation) | [PYFOREST-ML](https://github.com/cp-PYFOREST/PYFOREST-ML) | [PYFOREST-Shiny](https://github.com/cp-PYFOREST/PYFOREST-Shiny)
 
 
 ## Description
@@ -25,9 +25,14 @@ However, policymakers are currently facing challenges in understanding how much 
 To achieve this goal, we have outlined the following objectives:
 
 1.	Assess the compliance of property owners' execution of their approved LUPs and quantify historical deforestation rates.
+    - [Land-Use-Assesment](https://github.com/cp-PYFOREST/Land-Use-Assessment)
 2.	Estimate the area designated to be a conserved forest based on current and alternate laws for undeveloped regions. 
-3.	Predict deforestation patterns in the undeveloped region of the Paraguayan Chaco, including variations in the laws governing LUPs; and
+    - [Land-Use-Plan-Simulation](https://github.com/cp-PYFOREST/Land-Use-Plan-Simulation)
+3.	Predict deforestation patterns in the undeveloped region of the Paraguayan Chaco, including variations in the laws governing LUPs
+    - [PYFOREST-ML](https://github.com/cp-PYFOREST/PYFOREST-ML)
+and
 4.	Provide INFONA with a dynamic means to assess LUP compliance and explore the potential consequences of alternative laws on future deforestation patterns, with the potential to impact future forest policy laws.
+    - [PYFOREST-Shiny](https://github.com/cp-PYFOREST/PYFOREST-Shiny)
 
 This project aims to equip the National Forestry Institute (INFONA) with a dynamic and interactive tool to assess current LUP compliance statistics and explore current and alternate laws' impacts on the Paraguayan Chaco and future deforestation patterns.
 

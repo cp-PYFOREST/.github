@@ -1,4 +1,4 @@
-# A Capstone Project submitted in partial satisfaction of the requirements for the degree of \n Master of Environmental Data Science 
+# A Capstone Project submitted in partial satisfaction of the requirements for the degree of {newlilne} Master of Environmental Data Science 
 \n for the [Bren School of Environmental Science & Management](https://bren.ucsb.edu/projects/informing-forest-conservation-regulations-paraguay)
 
 <h1 align="center">

@@ -39,19 +39,3 @@ To achieve this goal, we have outlined the following objectives:
 
 This project aims to equip the National Forestry Institute (INFONA) with a dynamic and interactive tool to assess current LUP compliance statistics and explore current and alternate laws' impacts on the Paraguayan Chaco and future deforestation patterns.
 
-### Usage
-
--   How to run the program
--   Step-by-step bullets
-
-<!-- -->
-
-    code blocks for commands
-
-## Help
-
-Any advise for common problems or issues.
-
-## License
-
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details

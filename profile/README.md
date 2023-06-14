@@ -11,7 +11,7 @@ Informing Forest Conservation Regulations in Paraguay
 
 </h2>
 
-![Banner](https://github.com/cp-PYFOREST/Land-Use-Plan-Simulation/blob/141ed65331b9dd3bac32c19ad4b18dcbacfd8375/img/banner.png)
+![Banner](https://github.com/cp-PYFOREST/.github/blob/main/img/banner.png)
 This GitHub organization hosts the code and documentation used in a  Capstone Project submitted in partial satisfaction of the requirements for the degree of Master of Environmental Data Science for the [Bren School of Environmental Science & Management, University of California, Santa Barbara](https://bren.ucsb.edu/projects/informing-forest-conservation-regulations-paraguay)
 
 <h2 align="center">
